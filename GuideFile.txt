@@ -1,0 +1,2 @@
+i share my exersice in graphic lesson.
+we use python language and some library like matplotlib and openvc and so on.
